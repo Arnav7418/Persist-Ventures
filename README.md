@@ -2,6 +2,12 @@
 
 This Flutter application is a video feed app that allows users to scroll through a feed of videos, view video details, and see replies to each video. The app follows clean architecture principles and uses Provider for state management.
 
+
+## Project Demonstration
+
+[![Watch the video](https://img.youtube.com/vi/xc1iRcKyRlE/0.jpg)](https://www.youtube.com/watch?v=xc1iRcKyRlE)
+
+
 ## Project Structure
 
 The project is organized into the following directories:
